@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a project named Resume AI , which is basically a <br>resume builder and resume analyser app , Iam looking to build a strong git profile <br>i am currently leaning java and some AI concepts and also making another project <br>buold me a great git profile and i am good at communication, leadership , and i am very <br>optimistic
+I am currently working on a project named Resume AI , which is basically a <br>resume builder and resume analyser app , I am enthusiastic to learn new things in tech. <br> I have strong knwoledge of python and Java, also learned about Flask and tailwind css any many more to come. <br>b I am very good at communication, I  have leadership qualities , and i am very <br>optimistic and I am stubborn at my things which  wont complete.
 
 
 ## 🌐 Socials:
